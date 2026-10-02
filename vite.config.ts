@@ -5,7 +5,6 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-  base: '/Campus_Connect-ai/',
   plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
