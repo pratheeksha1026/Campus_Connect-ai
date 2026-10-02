@@ -1,0 +1,10 @@
+{
+  "name": "CampusConnect AI",
+  "description": "AI-powered student networking and collaboration platform. Find your people, discover complementary skill partners, form hackathon teams, and analyze compatibility.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
